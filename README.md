@@ -18,3 +18,6 @@ using data from Athlinks (www.athlinks/.com) extract data for mens and womens to
 # techniques
 use python & beautiful soup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to extract the data from athlinks pages - will need to have a list of url's, as these are not predicable
 - input - csv file with list of urls, with event, year, gender, url
+
+# events
+start with Boston Marathon (https://www.baa.org/) - get the urls for the last 10-20 years for m/f fields - pro or non-pro, just get mens/womens finish times
