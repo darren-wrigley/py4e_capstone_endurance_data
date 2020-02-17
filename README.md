@@ -16,5 +16,5 @@ using data from Athlinks (www.athlinks/.com) extract data for mens and womens to
   - top n times - e.g. does top 5/10/20 average times make a difference (may be an indicator of depth of field)
   
 # techniques
-use python & beautiful soup to extract the data from athlinks pages - will need to have a list of url's, as these are not predicable
+use python & beautiful soup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to extract the data from athlinks pages - will need to have a list of url's, as these are not predicable
 - input - csv file with list of urls, with event, year, gender, url
