@@ -1,7 +1,7 @@
 # ignore any virtual environment files
 .venv*/
 .vscode/*
-tempCodeRunner.py
+tempCodeRunnerFile.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
